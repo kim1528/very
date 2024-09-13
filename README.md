@@ -5,9 +5,9 @@
 ### 郑重申明,仅供学习，不要用于用户商业用途，如执意进行违法操作，与本人无任何关系
 ## 如若遇到算法不懂的飞机Telegram 请添加好友 mogu667 或 QQ 536469947 一起互相学习
 
-#### APP在线预览：[https://uns.dfg145.cfd/img/app端.gif](https://uns.dfg145.cfd/img/app.mp4)<br>
-#### 手机端后台在线预览：[https://uns.dfg145.cfd/img/手机后台.gif](https://uns.dfg145.cfd/img/手机后台.gif)<br>
-#### PC端电脑后台在线预览： [https://uns.dfg145.cfd/img/pc后台.gif](https://uns.dfg145.cfd/img/pc后台.gif)<br>
+#### APP在线预览：[https://uns.dfg145.cfd/img/app端.gif](https://hk.hoodbeng.com/app.mp4)<br>
+#### 手机端后台在线预览：[https://uns.dfg145.cfd/img/手机后台.gif](https://hk.hoodbeng.com/手机后台.gif)<br>
+#### PC端电脑后台在线预览： [https://uns.dfg145.cfd/img/pc后台.gif](https://hk.hoodbeng.com/pc后台.gif)<br>
 
 #### 截图   全是一体化
 
