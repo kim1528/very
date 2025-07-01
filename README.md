@@ -3,7 +3,7 @@
 为了巩固自己的算法，自己写了一套如下的竞彩官网的计算注数，预测金额，赔率，开奖的算法
 
 ### 郑重申明,仅供学习，不要用于用户商业用途，如执意进行违法操作，与本人无任何关系
-## 如若遇到代码不懂的飞机Telegram 请添加好友 mogu667 或 QQ 536469947 一起互相学习
+### 如若遇到代码不懂的飞机Telegram 请添加好友 mogu667 或 QQ 536469947 一起互相学习
 
 #### APP在线预览：[https://uns.dfg145.cfd/img/app端.gif](https://hk.hoodbeng.com/app.mp4)<br>
 #### 手机端后台在线预览：[https://uns.dfg145.cfd/img/手机后台.gif](https://hk.hoodbeng.com/手机后台.gif)<br>
